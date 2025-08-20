@@ -11,7 +11,7 @@ const Navbar = () => {
                     {/* Logo */}
                     <div className="flex-shrink-0 flex items-center">
                         <Link to="/" className="text-2xl font-bold text-indigo-600">
-                            MutanTech
+                            M-utanTech
                         </Link>
                     </div>
 
